@@ -31,10 +31,6 @@ While each notebook lists its specific dependencies, here are some common librar
 
 If you run the notebook in Colab, there will be install code if it's necessary.
 
-## Contribution
-
-Feel free to contribute by adding new models, improving existing notebooks, or updating documentation.
-
 ## License
 
-This repository is open-sourced under the MIT License.
+This repository is open-sourced under the MIT License, and all contents can be used for educational purposes, both free and paid, without any additional permission or attribution.
